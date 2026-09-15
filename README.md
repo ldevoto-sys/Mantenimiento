@@ -4,6 +4,8 @@ Sistema propio de gestión de mantenimiento, alternativo a Fracttal, para automa
 
 Plan de proyecto completo (contexto de negocio, stack, modelos de datos, metodología y hoja de ruta): [`docs/plan-de-proyecto.docx`](docs/plan-de-proyecto.docx).
 
+Especificación de integración con el CRM Comercial (Ventas → Operaciones — cómo esta app consulta y reporta el estado de una Orden de Trabajo): [`docs/HT-DO-XX-Especificacion-Integracion-Mantenimiento-v1.0.md`](docs/HT-DO-XX-Especificacion-Integracion-Mantenimiento-v1.0.md). Es un requerimiento nuevo, no contemplado en el plan de proyecto original — hay que incorporarlo al levantamiento de requerimientos de la Etapa 1 antes de avanzar a Maquetas.
+
 ## Estado actual
 
 **Etapa 1 — Requerimientos** (en curso). Levantamiento de requerimientos con los usuarios (Luis, Andrea, Melannie, técnicos).
